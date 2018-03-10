@@ -112,4 +112,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-Content/StarterContent
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
